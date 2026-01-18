@@ -1,0 +1,4 @@
+#!/bin/bash
+# Wrapper script for octatrack-converter Docker image
+
+docker run --rm -v "$(pwd)":/data octatrack-converter "$@"

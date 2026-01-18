@@ -1,0 +1,5 @@
+# Ignore everything except what we need for the container
+*
+
+# Only include the main Python script
+!main.py
