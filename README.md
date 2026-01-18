@@ -79,7 +79,7 @@ octatrack-convert --bit-depth 24 --rename
   - `16`: 16-bit output
   - `24`: 24-bit output
 - `--rename`: Append sample rate and bit depth to output filenames
-  - Example: `kick.wav` becomes `kick_44100_16.wav`
+  - Example: `kick.wav` becomes `kick_16bit_44100.wav`
   - Useful for identifying converted files at a glance
 
 ## Output
